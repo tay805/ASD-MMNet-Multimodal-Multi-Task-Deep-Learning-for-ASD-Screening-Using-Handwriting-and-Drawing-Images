@@ -1,0 +1,2 @@
+# ASD-MMNet-Multimodal-Multi-Task-Deep-Learning-for-ASD-Screening-Using-Handwriting-and-Drawing-Images
+ASD-MMNet is a multimodal, multi-task deep learning framework for ASD screening research using handwriting and drawing images. It combines ConvNeXtTiny, Canny edge maps, and HOG-LBP texture features to predict diagnosis category, severity, age group, and task type, with evaluation, explainability, and model export.
